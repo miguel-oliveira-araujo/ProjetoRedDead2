@@ -1,11 +1,10 @@
 function mudar(){
     let img = document.getElementById("img");
-    let trocar = Math.trunc(Math.random()*10);
+    let trocar = Math.trunc(Math.random()*13);
     img.src = "img/" + trocar +".jpg";
 }
-
 function trocar(){
-    let img3 = document.getElementById("img3");
+    let img = document.getElementById("img2");
     let trocar = Math.trunc(Math.random()*2);
-    img.src = "img3/foto" + trocar + ".jpg";
+    img.src = "img3/foto" + trocar +".png";
 }
