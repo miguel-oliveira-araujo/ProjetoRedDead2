@@ -14,8 +14,15 @@ body{
 #img{
     width:400px;
     height:200px;
-    margin-left:550px;
+    margin-left:545px;
     border-style: double;
+
+}
+#img2{
+width: 100px;
+height: 100px;
+position: absolute;
+
 
 }
 #descriçao{
@@ -26,9 +33,4 @@ body{
    color: white;
    text-shadow: 10px 0px 20px black; 
 }
-#img3{
-    width:400px;
-    height:200px;
-    margin-left:550px;
-    border-style: double;
-}
+
