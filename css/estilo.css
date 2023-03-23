@@ -11,6 +11,12 @@ body{
     color:rgb(255, 255, 255);
     text-shadow: 0px 0px 20px black;
 }
+#dinamite{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    text-shadow: 10px 0px 20px black;
+
+}
 #img{
     width:400px;
     height:200px;
@@ -19,7 +25,7 @@ body{
 
 }
 #img2{
-width: 100px;
+width: 75px;
 height: 100px;
 position: absolute;
 
