@@ -2,7 +2,7 @@
 <p>Miguel Oliveira de Araújo</p>
 
 # HTML
-<p> No HTML, inseri o título do projeto, identificador de língua, Identificador de monitor, identificador de caracteres especiais, linkei o Css. No BODY eu coloquei a imagem de fundo, coloquei o titulo e linkei no css, no canto superior esquedo da tela escrevi"não toque nisso" onde os curiosos irão clicar na imagem e ela irá estourar, coloquei as imagens do jogo e linkei no css , coloquei a imagem do dinamite que estoura ao canto superior esquerdo e linkei as imagens no java script com (onclick) e no css com (id).</p>
+<p> No HTML, inseri o título e a miniimagem superior do projeto, identificador de língua, Identificador de monitor, identificador de caracteres especiais, linkei o Css. No BODY eu coloquei a imagem de fundo, coloquei o titulo e linkei no css, no canto superior esquedo da tela escrevi"não toque nisso" onde os curiosos irão clicar na imagem e ela irá estourar, coloquei as imagens do jogo e linkei no css , coloquei a imagem do dinamite que estoura ao canto superior esquerdo e linkei as imagens no java script com (onclick) e no css com (id).</p>
 
 # Css
 <p> Zerei o margin e o padding da página, mudei a cor do título para branco, mudei a fonte também, coloquei uma sombra usando(text-shadow) e centralizei também.
