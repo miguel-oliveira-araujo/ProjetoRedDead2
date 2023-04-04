@@ -8,7 +8,7 @@
 <p> Zerei o margin e o padding da página, mudei a cor do título para branco, mudei a fonte também, coloquei uma sombra usando(text-shadow) e centralizei também.
 Mudei a fonte e a cor do texto da dinamite mas deixei ele no canto superior esuqerdo mesmo e também adicionei sombra usando o mesmo comando. coloquei uma borda nas imagens do jogo e també modifiquei a descrição do jogo dos mesmo jeito dos outros textos.</p>
 
-# JavaScript
+# Js
 <p>  coloquei a função (onclick) no html e linkei no js com o nome (mudar),<br>
  coloquei a variável e puxei a imagem pela id (img)<br>
  inseri uma variável para os números aleatórios cm os comandos
