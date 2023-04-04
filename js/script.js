@@ -1,6 +1,6 @@
 function mudar(){
     let img = document.getElementById("img");
-    let trocar = Math.trunc(Math.random()*16);
+    let trocar = Math.trunc(Math.random()*25);
     img.src = "img/" + trocar +".jpg";
 }
 function trocar(){
