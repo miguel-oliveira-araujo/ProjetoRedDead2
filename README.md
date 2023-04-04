@@ -9,10 +9,10 @@
 Mudei a fonte e a cor do texto da dinamite mas deixei ele no canto superior esuqerdo mesmo e também adicionei sombra usando o mesmo comando. coloquei uma borda nas imagens do jogo e també modifiquei a descrição do jogo dos mesmo jeito dos outros textos.</p>
 
 # JavaScript
-<p> 1ªlinha: coloquei a função (onclick) no html e linkei no js com o nome (mudar),<br>
-2ªlinha: coloquei a variável e puxei a imagem pela id (img)<br>
-3ªlinha: inseri uma variável para os números aleatórios cm os comandos
+<p>  coloquei a função (onclick) no html e linkei no js com o nome (mudar),<br>
+ coloquei a variável e puxei a imagem pela id (img)<br>
+ inseri uma variável para os números aleatórios cm os comandos
 (Mathn.trunc) para rredondar para inteiro e o (Math.random()*16) para gerar um número aleatório entre 0 e 15.<br>
-4ªlinha: Mudei o src da imagem com img.src e deixei mudar somente a variável aleatória com o nome das imagens: 0.jpg, 1.jpg... até 9.<br>
+ Mudei o src da imagem com img.src e deixei mudar somente a variável aleatória com o nome das imagens: 0.jpg, 1.jpg... até 9.<br>
 Assim, irá mudar a imagem a cada 'click'.<br><br>
 5ªlinha: repeti o mesmo processo mas com a id (img2),(Math.random()*2) e em uma pasta da imagem diferente.</p>
